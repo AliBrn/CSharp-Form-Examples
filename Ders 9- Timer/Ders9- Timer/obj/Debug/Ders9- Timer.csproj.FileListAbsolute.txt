@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders9- Timer\Ders9- Timer\bin\Debug\Ders9- Timer.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders9- Timer\Ders9- Timer\bin\Debug\Ders9- Timer.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders9- Timer\Ders9- Timer\bin\Debug\Ders9- Timer.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders9- Timer\Ders9- Timer\obj\Debug\Ders9- Timer.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders9- Timer\Ders9- Timer\obj\Debug\Ders9__Timer.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders9- Timer\Ders9- Timer\obj\Debug\Ders9__Timer.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders9- Timer\Ders9- Timer\obj\Debug\Ders9- Timer.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders9- Timer\Ders9- Timer\obj\Debug\Ders9- Timer.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders9- Timer\Ders9- Timer\obj\Debug\Ders9- Timer.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders9- Timer\Ders9- Timer\obj\Debug\Ders9- Timer.pdb

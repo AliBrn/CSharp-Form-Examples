@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{639D124A-E433-40B4-8107-D381B1DC299E}|Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131.csproj|C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\ders 5- radyo uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639D124A-E433-40B4-8107-D381B1DC299E}|Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131.csproj|solutionrelative:ders 5- radyo uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639D124A-E433-40B4-8107-D381B1DC299E}|Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131.csproj|c:\\users\\ali\\documents\\github\\csharp-form-examples\\ders 5- radyo uygulamas\u0131\\ders 5- radyo uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{639D124A-E433-40B4-8107-D381B1DC299E}|Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131.csproj|solutionrelative:ders 5- radyo uygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639D124A-E433-40B4-8107-D381B1DC299E}|Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131.csproj|C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\ders 5- radyo uygulamas\u0131\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{639D124A-E433-40B4-8107-D381B1DC299E}|Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131.csproj|solutionrelative:ders 5- radyo uygulamas\u0131\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639D124A-E433-40B4-8107-D381B1DC299E}|Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131.csproj|C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\ders 5- radyo uygulamas\u0131\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639D124A-E433-40B4-8107-D381B1DC299E}|Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131.csproj|solutionrelative:ders 5- radyo uygulamas\u0131\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131\\Form1.resx",
+              "RelativeDocumentMoniker": "Ders 5- Radyo Uygulamas\u0131\\Form1.resx",
+              "ToolTip": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131\\Form1.resx",
+              "RelativeToolTip": "Ders 5- Radyo Uygulamas\u0131\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-12T06:56:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ders 5- Radyo Uygulamas\u0131\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131\\Form1.Designer.cs",
+              "RelativeToolTip": "Ders 5- Radyo Uygulamas\u0131\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:56:27.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "Ders 5- Radyo Uygulamas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131\\Form1.cs",
+              "RelativeToolTip": "Ders 5- Radyo Uygulamas\u0131\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAhwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:43:18.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "Ders 5- Radyo Uygulamas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 5- Radyo Uygulamas\u0131\\Ders 5- Radyo Uygulamas\u0131\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ders 5- Radyo Uygulamas\u0131\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:41:37.59Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

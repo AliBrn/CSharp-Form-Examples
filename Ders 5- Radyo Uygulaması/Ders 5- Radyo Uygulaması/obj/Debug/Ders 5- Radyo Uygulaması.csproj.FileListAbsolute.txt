@@ -1,0 +1,30 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.csproj.ResolveComReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders_5__Radyo_Uygulaması.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders_5__Radyo_Uygulaması.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\bin\Debug\Ders 5- Radyo Uygulaması.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\bin\Debug\Ders 5- Radyo Uygulaması.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\bin\Debug\Ders 5- Radyo Uygulaması.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.pdb
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\bin\Debug\Ders 5- Radyo Uygulaması.exe.config
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\bin\Debug\Ders 5- Radyo Uygulaması.exe
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\bin\Debug\Ders 5- Radyo Uygulaması.pdb
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.csproj.ResolveComReference.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders_5__Radyo_Uygulaması.Form1.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders_5__Radyo_Uygulaması.Properties.Resources.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.csproj.GenerateResource.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.exe
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması\obj\Debug\Ders 5- Radyo Uygulaması.pdb

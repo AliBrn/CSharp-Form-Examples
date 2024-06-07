@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders 5- Radyo Uygulaması", "Ders 5- Radyo Uygulaması\Ders 5- Radyo Uygulaması.csproj", "{639D124A-E433-40B4-8107-D381B1DC299E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639D124A-E433-40B4-8107-D381B1DC299E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639D124A-E433-40B4-8107-D381B1DC299E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639D124A-E433-40B4-8107-D381B1DC299E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639D124A-E433-40B4-8107-D381B1DC299E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {516A07DC-ACA2-4706-95F5-2AED514C493B}
+	EndGlobalSection
+EndGlobal

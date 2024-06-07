@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Trafik Işıkları\Ders 9-Trafik Işıkları\bin\Debug\Ders 9-Trafik Işıkları.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Trafik Işıkları\Ders 9-Trafik Işıkları\bin\Debug\Ders 9-Trafik Işıkları.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Trafik Işıkları\Ders 9-Trafik Işıkları\bin\Debug\Ders 9-Trafik Işıkları.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Trafik Işıkları\Ders 9-Trafik Işıkları\obj\Debug\Ders 9-Trafik Işıkları.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Trafik Işıkları\Ders 9-Trafik Işıkları\obj\Debug\Ders_9_Trafik_Işıkları.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Trafik Işıkları\Ders 9-Trafik Işıkları\obj\Debug\Ders_9_Trafik_Işıkları.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Trafik Işıkları\Ders 9-Trafik Işıkları\obj\Debug\Ders 9-Trafik Işıkları.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Trafik Işıkları\Ders 9-Trafik Işıkları\obj\Debug\Ders 9-Trafik Işıkları.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Trafik Işıkları\Ders 9-Trafik Işıkları\obj\Debug\Ders 9-Trafik Işıkları.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Trafik Işıkları\Ders 9-Trafik Işıkları\obj\Debug\Ders 9-Trafik Işıkları.pdb

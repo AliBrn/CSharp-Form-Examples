@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders 10-At Yarışı\Ders 10-At Yarışı\bin\Debug\Ders 10-At Yarışı.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders 10-At Yarışı\Ders 10-At Yarışı\bin\Debug\Ders 10-At Yarışı.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 10-At Yarışı\Ders 10-At Yarışı\bin\Debug\Ders 10-At Yarışı.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 10-At Yarışı\Ders 10-At Yarışı\obj\Debug\Ders 10-At Yarışı.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 10-At Yarışı\Ders 10-At Yarışı\obj\Debug\Ders_10_At_Yarışı.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 10-At Yarışı\Ders 10-At Yarışı\obj\Debug\Ders_10_At_Yarışı.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 10-At Yarışı\Ders 10-At Yarışı\obj\Debug\Ders 10-At Yarışı.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 10-At Yarışı\Ders 10-At Yarışı\obj\Debug\Ders 10-At Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 10-At Yarışı\Ders 10-At Yarışı\obj\Debug\Ders 10-At Yarışı.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 10-At Yarışı\Ders 10-At Yarışı\obj\Debug\Ders 10-At Yarışı.pdb

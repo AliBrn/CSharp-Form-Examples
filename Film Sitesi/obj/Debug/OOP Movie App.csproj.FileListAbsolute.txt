@@ -1,0 +1,30 @@
+C:\Users\Salih Furkan\OneDrive\Masaüstü\Software\OOP Movie App\bin\Debug\OOP Movie App.exe.config
+C:\Users\Salih Furkan\OneDrive\Masaüstü\Software\OOP Movie App\bin\Debug\OOP Movie App.exe
+C:\Users\Salih Furkan\OneDrive\Masaüstü\Software\OOP Movie App\bin\Debug\OOP Movie App.pdb
+C:\Users\Salih Furkan\OneDrive\Masaüstü\Software\OOP Movie App\obj\Debug\OOP Movie App.csproj.AssemblyReference.cache
+C:\Users\Salih Furkan\OneDrive\Masaüstü\Software\OOP Movie App\obj\Debug\OOP_Movie_App.Properties.Resources.resources
+C:\Users\Salih Furkan\OneDrive\Masaüstü\Software\OOP Movie App\obj\Debug\OOP Movie App.csproj.GenerateResource.cache
+C:\Users\Salih Furkan\OneDrive\Masaüstü\Software\OOP Movie App\obj\Debug\OOP Movie App.csproj.CoreCompileInputs.cache
+C:\Users\Salih Furkan\OneDrive\Masaüstü\Software\OOP Movie App\obj\Debug\OOP Movie App.exe
+C:\Users\Salih Furkan\OneDrive\Masaüstü\Software\OOP Movie App\obj\Debug\OOP Movie App.pdb
+C:\Users\Salih Furkan\OneDrive\Masaüstü\Software\OOP Movie App\obj\Debug\OOP_Movie_App.Form1.resources
+C:\Users\Ali\Desktop\OOP Movie App\bin\Debug\OOP Movie App.exe.config
+C:\Users\Ali\Desktop\OOP Movie App\bin\Debug\OOP Movie App.exe
+C:\Users\Ali\Desktop\OOP Movie App\bin\Debug\OOP Movie App.pdb
+C:\Users\Ali\Desktop\OOP Movie App\obj\Debug\OOP Movie App.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\OOP Movie App\obj\Debug\OOP_Movie_App.Form1.resources
+C:\Users\Ali\Desktop\OOP Movie App\obj\Debug\OOP_Movie_App.Properties.Resources.resources
+C:\Users\Ali\Desktop\OOP Movie App\obj\Debug\OOP Movie App.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\OOP Movie App\obj\Debug\OOP Movie App.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\OOP Movie App\obj\Debug\OOP Movie App.exe
+C:\Users\Ali\Desktop\OOP Movie App\obj\Debug\OOP Movie App.pdb
+C:\Users\Ali\Desktop\Film Sitesi\bin\Debug\OOP Movie App.exe.config
+C:\Users\Ali\Desktop\Film Sitesi\bin\Debug\OOP Movie App.exe
+C:\Users\Ali\Desktop\Film Sitesi\bin\Debug\OOP Movie App.pdb
+C:\Users\Ali\Desktop\Film Sitesi\obj\Debug\OOP Movie App.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\Film Sitesi\obj\Debug\OOP_Movie_App.Form1.resources
+C:\Users\Ali\Desktop\Film Sitesi\obj\Debug\OOP_Movie_App.Properties.Resources.resources
+C:\Users\Ali\Desktop\Film Sitesi\obj\Debug\OOP Movie App.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\Film Sitesi\obj\Debug\OOP Movie App.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Film Sitesi\obj\Debug\OOP Movie App.exe
+C:\Users\Ali\Desktop\Film Sitesi\obj\Debug\OOP Movie App.pdb

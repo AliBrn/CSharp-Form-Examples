@@ -1,0 +1,20 @@
+C:\Users\Ali\Desktop\C# Konsol Dersleri\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\bin\Debug\Ders 11-Zar Uygulaması.exe.config
+C:\Users\Ali\Desktop\C# Konsol Dersleri\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\bin\Debug\Ders 11-Zar Uygulaması.exe
+C:\Users\Ali\Desktop\C# Konsol Dersleri\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\bin\Debug\Ders 11-Zar Uygulaması.pdb
+C:\Users\Ali\Desktop\C# Konsol Dersleri\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders 11-Zar Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Konsol Dersleri\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders_11_Zar_Uygulaması.Form1.resources
+C:\Users\Ali\Desktop\C# Konsol Dersleri\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders_11_Zar_Uygulaması.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Konsol Dersleri\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders 11-Zar Uygulaması.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Konsol Dersleri\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders 11-Zar Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Konsol Dersleri\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders 11-Zar Uygulaması.exe
+C:\Users\Ali\Desktop\C# Konsol Dersleri\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders 11-Zar Uygulaması.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\bin\Debug\Ders 11-Zar Uygulaması.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\bin\Debug\Ders 11-Zar Uygulaması.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\bin\Debug\Ders 11-Zar Uygulaması.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders 11-Zar Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders_11_Zar_Uygulaması.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders_11_Zar_Uygulaması.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders 11-Zar Uygulaması.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders 11-Zar Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders 11-Zar Uygulaması.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Zar Uygulaması\Ders 11-Zar Uygulaması\obj\Debug\Ders 11-Zar Uygulaması.pdb

@@ -1,0 +1,47 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders_4__SüperLig.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders_4__SüperLig.Form2.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders_4__SüperLig.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.AssemblyInfo.cs
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Ders 4- SüperLig.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Ders 4- SüperLig.deps.json
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Ders 4- SüperLig.runtimeconfig.json
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Ders 4- SüperLig.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Ders 4- SüperLig.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\refint\Ders 4- SüperLig.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.genruntimeconfig.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\ref\Ders 4- SüperLig.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.csproj.ResolveComReference.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Ders 4- SüperLig.exe
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Ders 4- SüperLig.deps.json
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Ders 4- SüperLig.runtimeconfig.json
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Ders 4- SüperLig.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Ders 4- SüperLig.pdb
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.csproj.ResolveComReference.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders_4__SüperLig.Form1.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders_4__SüperLig.Form2.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders_4__SüperLig.Properties.Resources.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.csproj.GenerateResource.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.AssemblyInfoInputs.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.AssemblyInfo.cs
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.sourcelink.json
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\refint\Ders 4- SüperLig.dll
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.pdb
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\Ders 4- SüperLig.genruntimeconfig.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 4- SüperLig\Ders 4- SüperLig\obj\Debug\net8.0-windows\ref\Ders 4- SüperLig.dll

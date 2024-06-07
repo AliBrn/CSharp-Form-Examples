@@ -1,0 +1,22 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders 8-Yolcu Seyahat.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders_8_Yolcu_Seyahat.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders_8_Yolcu_Seyahat.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders 8-Yolcu Seyahat.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders 8-Yolcu Seyahat.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\bin\Debug\Ders 8-Yolcu Seyahat.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\bin\Debug\Ders 8-Yolcu Seyahat.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\bin\Debug\Ders 8-Yolcu Seyahat.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders 8-Yolcu Seyahat.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders 8-Yolcu Seyahat.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders_8_Yolcu_Seyahat.Form2.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\bin\Debug\Ders 8-Yolcu Seyahat.exe.config
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\bin\Debug\Ders 8-Yolcu Seyahat.exe
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\bin\Debug\Ders 8-Yolcu Seyahat.pdb
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders 8-Yolcu Seyahat.csproj.AssemblyReference.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders_8_Yolcu_Seyahat.Form1.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders_8_Yolcu_Seyahat.Form2.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders_8_Yolcu_Seyahat.Properties.Resources.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders 8-Yolcu Seyahat.csproj.GenerateResource.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders 8-Yolcu Seyahat.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders 8-Yolcu Seyahat.exe
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 8-Yolcu Seyahat\Ders 8-Yolcu Seyahat\obj\Debug\Ders 8-Yolcu Seyahat.pdb

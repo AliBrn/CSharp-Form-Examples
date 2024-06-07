@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders7-Mini Film Sitesi\Ders7-Mini Film Sitesi\bin\Debug\Ders7-Mini Film Sitesi.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders7-Mini Film Sitesi\Ders7-Mini Film Sitesi\bin\Debug\Ders7-Mini Film Sitesi.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders7-Mini Film Sitesi\Ders7-Mini Film Sitesi\bin\Debug\Ders7-Mini Film Sitesi.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders7-Mini Film Sitesi\Ders7-Mini Film Sitesi\obj\Debug\Ders7-Mini Film Sitesi.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders7-Mini Film Sitesi\Ders7-Mini Film Sitesi\obj\Debug\Ders7_Mini_Film_Sitesi.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders7-Mini Film Sitesi\Ders7-Mini Film Sitesi\obj\Debug\Ders7_Mini_Film_Sitesi.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders7-Mini Film Sitesi\Ders7-Mini Film Sitesi\obj\Debug\Ders7-Mini Film Sitesi.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders7-Mini Film Sitesi\Ders7-Mini Film Sitesi\obj\Debug\Ders7-Mini Film Sitesi.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders7-Mini Film Sitesi\Ders7-Mini Film Sitesi\obj\Debug\Ders7-Mini Film Sitesi.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders7-Mini Film Sitesi\Ders7-Mini Film Sitesi\obj\Debug\Ders7-Mini Film Sitesi.pdb

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 7-Mini Film Sitesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D16EBF9-351D-4C9B-8D2D-6EE0CA930C7A}|Ders7-Mini Film Sitesi\\Ders7-Mini Film Sitesi.csproj|c:\\users\\ali\\documents\\github\\csharp-form-examples\\ders 7-mini film sitesi\\ders7-mini film sitesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D16EBF9-351D-4C9B-8D2D-6EE0CA930C7A}|Ders7-Mini Film Sitesi\\Ders7-Mini Film Sitesi.csproj|solutionrelative:ders7-mini film sitesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D16EBF9-351D-4C9B-8D2D-6EE0CA930C7A}|Ders7-Mini Film Sitesi\\Ders7-Mini Film Sitesi.csproj|C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 7-Mini Film Sitesi\\ders7-mini film sitesi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D16EBF9-351D-4C9B-8D2D-6EE0CA930C7A}|Ders7-Mini Film Sitesi\\Ders7-Mini Film Sitesi.csproj|solutionrelative:ders7-mini film sitesi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D16EBF9-351D-4C9B-8D2D-6EE0CA930C7A}|Ders7-Mini Film Sitesi\\Ders7-Mini Film Sitesi.csproj|C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 7-Mini Film Sitesi\\ders7-mini film sitesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D16EBF9-351D-4C9B-8D2D-6EE0CA930C7A}|Ders7-Mini Film Sitesi\\Ders7-Mini Film Sitesi.csproj|solutionrelative:ders7-mini film sitesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 7-Mini Film Sitesi\\Ders7-Mini Film Sitesi\\Form1.cs",
+              "RelativeDocumentMoniker": "Ders7-Mini Film Sitesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 7-Mini Film Sitesi\\Ders7-Mini Film Sitesi\\Form1.cs",
+              "RelativeToolTip": "Ders7-Mini Film Sitesi\\Form1.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAADgv04AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:09:23.166Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 7-Mini Film Sitesi\\Ders7-Mini Film Sitesi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ders7-Mini Film Sitesi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 7-Mini Film Sitesi\\Ders7-Mini Film Sitesi\\Form1.Designer.cs",
+              "RelativeToolTip": "Ders7-Mini Film Sitesi\\Form1.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:04:04.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ali\\Documents\\GitHub\\CSharp-Form-Examples\\Ders 7-Mini Film Sitesi\\Ders7-Mini Film Sitesi\\Form1.cs",
+              "RelativeDocumentMoniker": "Ders7-Mini Film Sitesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ders7-Mini Film Sitesi\\Ders7-Mini Film Sitesi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\C# Kodlar\u0131\\Ders7-Mini Film Sitesi\\Ders7-Mini Film Sitesi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:54:06.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

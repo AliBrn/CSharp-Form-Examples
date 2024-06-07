@@ -1,0 +1,20 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Kronometre\Ders 9-Kronometre\bin\Debug\Ders 9-Kronometre.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Kronometre\Ders 9-Kronometre\bin\Debug\Ders 9-Kronometre.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Kronometre\Ders 9-Kronometre\bin\Debug\Ders 9-Kronometre.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders 9-Kronometre.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders_9_Kronometre.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders_9_Kronometre.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders 9-Kronometre.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders 9-Kronometre.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders 9-Kronometre.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders 9-Kronometre.pdb
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 9-Kronometre\Ders 9-Kronometre\bin\Debug\Ders 9-Kronometre.exe.config
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 9-Kronometre\Ders 9-Kronometre\bin\Debug\Ders 9-Kronometre.exe
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 9-Kronometre\Ders 9-Kronometre\bin\Debug\Ders 9-Kronometre.pdb
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders 9-Kronometre.csproj.AssemblyReference.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders_9_Kronometre.Form1.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders_9_Kronometre.Properties.Resources.resources
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders 9-Kronometre.csproj.GenerateResource.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders 9-Kronometre.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders 9-Kronometre.exe
+C:\Users\Ali\Documents\GitHub\CSharp-Form-Examples\Ders 9-Kronometre\Ders 9-Kronometre\obj\Debug\Ders 9-Kronometre.pdb

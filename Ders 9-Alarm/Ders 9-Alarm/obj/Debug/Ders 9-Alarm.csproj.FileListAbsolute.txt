@@ -1,0 +1,15 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\bin\Debug\Ders 9-Alarm.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\bin\Debug\Ders 9-Alarm.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\bin\Debug\Ders 9-Alarm.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\obj\Debug\Ders 9-Alarm.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\obj\Debug\Ders_9_Alarm.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\obj\Debug\Ders_9_Alarm.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\obj\Debug\Ders 9-Alarm.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\obj\Debug\Ders 9-Alarm.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\obj\Debug\Ders 9-Alarm.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\obj\Debug\Ders 9-Alarm.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 9-Alarm\Ders 9-Alarm\obj\Debug\Ders 9-Alarm.csproj.ResolveComReference.cache

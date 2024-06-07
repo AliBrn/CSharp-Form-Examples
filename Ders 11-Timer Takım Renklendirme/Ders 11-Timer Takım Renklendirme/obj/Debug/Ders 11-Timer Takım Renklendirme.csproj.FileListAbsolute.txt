@@ -1,0 +1,15 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\bin\Debug\Ders 11-Timer Takım Renklendirme.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\bin\Debug\Ders 11-Timer Takım Renklendirme.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\bin\Debug\Ders 11-Timer Takım Renklendirme.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\obj\Debug\Ders 11-Timer Takım Renklendirme.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\obj\Debug\Ders_11_Timer_Takım_Renklendirme.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\obj\Debug\Ders_11_Timer_Takım_Renklendirme.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\obj\Debug\Ders 11-Timer Takım Renklendirme.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\obj\Debug\Ders 11-Timer Takım Renklendirme.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\obj\Debug\Ders 11-Timer Takım Renklendirme.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\obj\Debug\Ders 11-Timer Takım Renklendirme.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ali\Desktop\C# Kodları\Ders 11-Timer Takım Renklendirme\Ders 11-Timer Takım Renklendirme\obj\Debug\Ders 11-Timer Takım Renklendirme.csproj.ResolveComReference.cache

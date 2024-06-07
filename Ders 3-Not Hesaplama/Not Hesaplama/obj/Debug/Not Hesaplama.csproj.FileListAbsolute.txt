@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\C# Kodları\Not Hesaplama\Not Hesaplama\bin\Debug\Not Hesaplama.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Not Hesaplama\Not Hesaplama\bin\Debug\Not Hesaplama.exe
+C:\Users\Ali\Desktop\C# Kodları\Not Hesaplama\Not Hesaplama\bin\Debug\Not Hesaplama.pdb
+C:\Users\Ali\Desktop\C# Kodları\Not Hesaplama\Not Hesaplama\obj\Debug\Not Hesaplama.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Not Hesaplama\Not Hesaplama\obj\Debug\Not_Hesaplama.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Not Hesaplama\Not Hesaplama\obj\Debug\Not_Hesaplama.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Not Hesaplama\Not Hesaplama\obj\Debug\Not Hesaplama.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Not Hesaplama\Not Hesaplama\obj\Debug\Not Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Not Hesaplama\Not Hesaplama\obj\Debug\Not Hesaplama.exe
+C:\Users\Ali\Desktop\C# Kodları\Not Hesaplama\Not Hesaplama\obj\Debug\Not Hesaplama.pdb

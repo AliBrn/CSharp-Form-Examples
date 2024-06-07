@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\C# Kodları\Ders6-Tyt Ayt Puan Hesaplama\Ders6-Tyt Ayt Puan Hesaplama\bin\Debug\Ders6-Tyt Ayt Puan Hesaplama.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Ders6-Tyt Ayt Puan Hesaplama\Ders6-Tyt Ayt Puan Hesaplama\bin\Debug\Ders6-Tyt Ayt Puan Hesaplama.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders6-Tyt Ayt Puan Hesaplama\Ders6-Tyt Ayt Puan Hesaplama\bin\Debug\Ders6-Tyt Ayt Puan Hesaplama.pdb
+C:\Users\Ali\Desktop\C# Kodları\Ders6-Tyt Ayt Puan Hesaplama\Ders6-Tyt Ayt Puan Hesaplama\obj\Debug\Ders6-Tyt Ayt Puan Hesaplama.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders6-Tyt Ayt Puan Hesaplama\Ders6-Tyt Ayt Puan Hesaplama\obj\Debug\Ders6_Tyt_Ayt_Puan_Hesaplama.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders6-Tyt Ayt Puan Hesaplama\Ders6-Tyt Ayt Puan Hesaplama\obj\Debug\Ders6_Tyt_Ayt_Puan_Hesaplama.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Ders6-Tyt Ayt Puan Hesaplama\Ders6-Tyt Ayt Puan Hesaplama\obj\Debug\Ders6-Tyt Ayt Puan Hesaplama.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders6-Tyt Ayt Puan Hesaplama\Ders6-Tyt Ayt Puan Hesaplama\obj\Debug\Ders6-Tyt Ayt Puan Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Ders6-Tyt Ayt Puan Hesaplama\Ders6-Tyt Ayt Puan Hesaplama\obj\Debug\Ders6-Tyt Ayt Puan Hesaplama.exe
+C:\Users\Ali\Desktop\C# Kodları\Ders6-Tyt Ayt Puan Hesaplama\Ders6-Tyt Ayt Puan Hesaplama\obj\Debug\Ders6-Tyt Ayt Puan Hesaplama.pdb
