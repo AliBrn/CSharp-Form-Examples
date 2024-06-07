@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{279EA72C-D176-422C-B1CF-239B9891EB0C}|Ntp \u00D6devi\\Ntp \u00D6devi.csproj|c:\\users\\ali\\desktop\\c# kodlar\u0131\\ntp  proje 2 kuyruk stack yap\u0131s\u0131\\ntp \u00F6devi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{279EA72C-D176-422C-B1CF-239B9891EB0C}|Ntp \u00D6devi\\Ntp \u00D6devi.csproj|solutionrelative:ntp \u00F6devi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279EA72C-D176-422C-B1CF-239B9891EB0C}|Ntp \u00D6devi\\Ntp \u00D6devi.csproj|C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\ntp \u00F6devi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279EA72C-D176-422C-B1CF-239B9891EB0C}|Ntp \u00D6devi\\Ntp \u00D6devi.csproj|solutionrelative:ntp \u00F6devi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279EA72C-D176-422C-B1CF-239B9891EB0C}|Ntp \u00D6devi\\Ntp \u00D6devi.csproj|C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\ntp \u00F6devi\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279EA72C-D176-422C-B1CF-239B9891EB0C}|Ntp \u00D6devi\\Ntp \u00D6devi.csproj|solutionrelative:ntp \u00F6devi\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279EA72C-D176-422C-B1CF-239B9891EB0C}|Ntp \u00D6devi\\Ntp \u00D6devi.csproj|C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\ntp \u00F6devi\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279EA72C-D176-422C-B1CF-239B9891EB0C}|Ntp \u00D6devi\\Ntp \u00D6devi.csproj|solutionrelative:ntp \u00F6devi\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\Ntp \u00D6devi\\Stack.cs",
+              "RelativeDocumentMoniker": "Ntp \u00D6devi\\Stack.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\Ntp \u00D6devi\\Stack.cs",
+              "RelativeToolTip": "Ntp \u00D6devi\\Stack.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:30:11.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\Ntp \u00D6devi\\Form1.cs",
+              "RelativeDocumentMoniker": "Ntp \u00D6devi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\Ntp \u00D6devi\\Form1.cs",
+              "RelativeToolTip": "Ntp \u00D6devi\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:41:14.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\Ntp \u00D6devi\\Queue.cs",
+              "RelativeDocumentMoniker": "Ntp \u00D6devi\\Queue.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\Ntp \u00D6devi\\Queue.cs",
+              "RelativeToolTip": "Ntp \u00D6devi\\Queue.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:58:47.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\Ntp \u00D6devi\\Form1.cs",
+              "RelativeDocumentMoniker": "Ntp \u00D6devi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\C# Kodlar\u0131\\Ntp  Proje 2 Kuyruk Stack Yap\u0131s\u0131\\Ntp \u00D6devi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ntp \u00D6devi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:28:13.122Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

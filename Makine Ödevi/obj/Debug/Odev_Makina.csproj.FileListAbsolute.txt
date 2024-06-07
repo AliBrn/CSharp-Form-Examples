@@ -1,0 +1,30 @@
+C:\Users\b_ari\source\repos\Odev_Makina\bin\Debug\Odev_Makina.exe.config
+C:\Users\b_ari\source\repos\Odev_Makina\bin\Debug\Odev_Makina.exe
+C:\Users\b_ari\source\repos\Odev_Makina\bin\Debug\Odev_Makina.pdb
+C:\Users\b_ari\source\repos\Odev_Makina\obj\Debug\Odev_Makina.csproj.AssemblyReference.cache
+C:\Users\b_ari\source\repos\Odev_Makina\obj\Debug\Odev_Makina.Form1.resources
+C:\Users\b_ari\source\repos\Odev_Makina\obj\Debug\Odev_Makina.Properties.Resources.resources
+C:\Users\b_ari\source\repos\Odev_Makina\obj\Debug\Odev_Makina.csproj.GenerateResource.cache
+C:\Users\b_ari\source\repos\Odev_Makina\obj\Debug\Odev_Makina.csproj.CoreCompileInputs.cache
+C:\Users\b_ari\source\repos\Odev_Makina\obj\Debug\Odev_Makina.exe
+C:\Users\b_ari\source\repos\Odev_Makina\obj\Debug\Odev_Makina.pdb
+C:\Users\Ali\Desktop\Odev_Makina\bin\Debug\Odev_Makina.exe.config
+C:\Users\Ali\Desktop\Odev_Makina\bin\Debug\Odev_Makina.exe
+C:\Users\Ali\Desktop\Odev_Makina\bin\Debug\Odev_Makina.pdb
+C:\Users\Ali\Desktop\Odev_Makina\obj\Debug\Odev_Makina.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\Odev_Makina\obj\Debug\Odev_Makina.Form1.resources
+C:\Users\Ali\Desktop\Odev_Makina\obj\Debug\Odev_Makina.Properties.Resources.resources
+C:\Users\Ali\Desktop\Odev_Makina\obj\Debug\Odev_Makina.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\Odev_Makina\obj\Debug\Odev_Makina.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Odev_Makina\obj\Debug\Odev_Makina.exe
+C:\Users\Ali\Desktop\Odev_Makina\obj\Debug\Odev_Makina.pdb
+C:\Users\Ali\Desktop\C# Kodları\Makine Ödevi\obj\Debug\Odev_Makina.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Makine Ödevi\obj\Debug\Odev_Makina.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Makine Ödevi\obj\Debug\Odev_Makina.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Makine Ödevi\obj\Debug\Odev_Makina.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Makine Ödevi\obj\Debug\Odev_Makina.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Makine Ödevi\obj\Debug\Odev_Makina.exe
+C:\Users\Ali\Desktop\C# Kodları\Makine Ödevi\obj\Debug\Odev_Makina.pdb
+C:\Users\Ali\Desktop\C# Kodları\Makine Ödevi\bin\Debug\Odev_Makina.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Makine Ödevi\bin\Debug\Odev_Makina.exe
+C:\Users\Ali\Desktop\C# Kodları\Makine Ödevi\bin\Debug\Odev_Makina.pdb

@@ -1,0 +1,20 @@
+C:\Users\BARAN\Desktop\JavaKodlari\Kullanici_Kayit_Rehberi\Pizza_Siparis\bin\Debug\Pizza_Siparis.exe.config
+C:\Users\BARAN\Desktop\JavaKodlari\Kullanici_Kayit_Rehberi\Pizza_Siparis\bin\Debug\Pizza_Siparis.exe
+C:\Users\BARAN\Desktop\JavaKodlari\Kullanici_Kayit_Rehberi\Pizza_Siparis\bin\Debug\Pizza_Siparis.pdb
+C:\Users\BARAN\Desktop\JavaKodlari\Kullanici_Kayit_Rehberi\Pizza_Siparis\obj\Debug\Pizza_Siparis.csproj.AssemblyReference.cache
+C:\Users\BARAN\Desktop\JavaKodlari\Kullanici_Kayit_Rehberi\Pizza_Siparis\obj\Debug\Pizza_Siparis.Form1.resources
+C:\Users\BARAN\Desktop\JavaKodlari\Kullanici_Kayit_Rehberi\Pizza_Siparis\obj\Debug\Pizza_Siparis.Properties.Resources.resources
+C:\Users\BARAN\Desktop\JavaKodlari\Kullanici_Kayit_Rehberi\Pizza_Siparis\obj\Debug\Pizza_Siparis.csproj.GenerateResource.cache
+C:\Users\BARAN\Desktop\JavaKodlari\Kullanici_Kayit_Rehberi\Pizza_Siparis\obj\Debug\Pizza_Siparis.csproj.CoreCompileInputs.cache
+C:\Users\BARAN\Desktop\JavaKodlari\Kullanici_Kayit_Rehberi\Pizza_Siparis\obj\Debug\Pizza_Siparis.exe
+C:\Users\BARAN\Desktop\JavaKodlari\Kullanici_Kayit_Rehberi\Pizza_Siparis\obj\Debug\Pizza_Siparis.pdb
+C:\Users\Ali\Desktop\C# Kodları\Pizza_Siparis\bin\Debug\Pizza_Siparis.exe.config
+C:\Users\Ali\Desktop\C# Kodları\Pizza_Siparis\bin\Debug\Pizza_Siparis.exe
+C:\Users\Ali\Desktop\C# Kodları\Pizza_Siparis\bin\Debug\Pizza_Siparis.pdb
+C:\Users\Ali\Desktop\C# Kodları\Pizza_Siparis\obj\Debug\Pizza_Siparis.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\C# Kodları\Pizza_Siparis\obj\Debug\Pizza_Siparis.Form1.resources
+C:\Users\Ali\Desktop\C# Kodları\Pizza_Siparis\obj\Debug\Pizza_Siparis.Properties.Resources.resources
+C:\Users\Ali\Desktop\C# Kodları\Pizza_Siparis\obj\Debug\Pizza_Siparis.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\C# Kodları\Pizza_Siparis\obj\Debug\Pizza_Siparis.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\C# Kodları\Pizza_Siparis\obj\Debug\Pizza_Siparis.exe
+C:\Users\Ali\Desktop\C# Kodları\Pizza_Siparis\obj\Debug\Pizza_Siparis.pdb

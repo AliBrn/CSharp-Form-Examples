@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\Ntp Ödevi\Ntp Ödevi\bin\Debug\Ntp Ödevi.exe.config
+C:\Users\Ali\Desktop\Ntp Ödevi\Ntp Ödevi\bin\Debug\Ntp Ödevi.exe
+C:\Users\Ali\Desktop\Ntp Ödevi\Ntp Ödevi\bin\Debug\Ntp Ödevi.pdb
+C:\Users\Ali\Desktop\Ntp Ödevi\Ntp Ödevi\obj\Debug\Ntp Ödevi.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\Ntp Ödevi\Ntp Ödevi\obj\Debug\Ntp_Ödevi.Form1.resources
+C:\Users\Ali\Desktop\Ntp Ödevi\Ntp Ödevi\obj\Debug\Ntp_Ödevi.Properties.Resources.resources
+C:\Users\Ali\Desktop\Ntp Ödevi\Ntp Ödevi\obj\Debug\Ntp Ödevi.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\Ntp Ödevi\Ntp Ödevi\obj\Debug\Ntp Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Ntp Ödevi\Ntp Ödevi\obj\Debug\Ntp Ödevi.exe
+C:\Users\Ali\Desktop\Ntp Ödevi\Ntp Ödevi\obj\Debug\Ntp Ödevi.pdb
